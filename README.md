@@ -1,7 +1,7 @@
 # quizler
 
 A new Flutter project.
-
+<img src="images/screenshot.png">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
